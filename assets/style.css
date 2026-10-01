@@ -118,6 +118,7 @@ ul.plain li{margin:.25em 0}
 @media print{nav,.toolbar,.site-footer{display:none}a{color:inherit}}
 
 /* Altmetric badges */
-.pub .altmetric-embed{display:inline-block;vertical-align:middle;margin-left:6px;line-height:0}
+.pub .meta .altmetric-embed{display:inline-block;vertical-align:middle;margin:0 0 0 10px !important;line-height:0}
+.pub .meta a.doi{margin-right:2px}
 .pub .altmetric-embed:empty{display:none}
 .pub .altmetric-embed img{vertical-align:middle}
