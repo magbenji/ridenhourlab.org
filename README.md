@@ -5,7 +5,7 @@ Source for the Ridenhour Lab website, published with GitHub Pages.
 ## Updating the site
 
 1. Edit the content:
-   - **Publications:** `data/publications.json`. Add new papers at the top. Fields: `year`, `type` (`article` or `chapter`), `authors`, `title`, `venue`, `details` (volume:pages), `url` (preferably `https://doi.org/...`).
+   - **Publications:** `data/publications.json`. Add new papers at the top. Fields: `year`, `type` (`article` or `chapter`), `authors`, `title`, `venue`, `details` (volume:pages), `doi`, and `url` (usually `https://doi.org/` + the DOI). The `doi` field drives the Altmetric badge; add `preprint_doi` to show a second badge for a preprint version.
    - **Teaching:** `data/teaching.json`. Add a term to a course's `offerings`, and put the syllabus PDF in `syllabi/`. Set `current_term` to highlight the current semester.
    - **Page text:** `src/*.html`. The header and footer are in `src/_layout.html`.
    - **CV:** save it as `cv/Ridenhour-CV.pdf`. The CV buttons appear automatically.

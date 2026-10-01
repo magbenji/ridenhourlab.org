@@ -40,12 +40,16 @@ def pub_html(p):
     if p.get("url"):
         label = "DOI" if "doi.org/" in p["url"] else "Link"
         link = f'<a class="doi" href="{html.escape(p["url"])}">{label}</a>'
+    badges = "".join(
+        f'<span class="altmetric-embed" data-badge-type="4" data-badge-popover="right" '
+        f'data-hide-no-mentions="true" data-doi="{html.escape(d)}"></span>'
+        for d in (p.get("doi"), p.get("preprint_doi")) if d)
     tag = {"chapter": '<span class="tag">Chapter</span>',
            "preprint": '<span class="tag">Preprint</span>'}.get(p["type"], "")
     return (f'<li class="pub" data-type="{p["type"]}" data-year="{p["year"]}">'
             f'<div class="title">{title}{tag}</div>'
             f'<div class="meta"><span class="authors">{authors}</span>{"" if p["authors"].endswith(".") else "."} {p["year"]}. '
-            f'{venue_html}{link}</div></li>')
+            f'{venue_html}{link}{badges}</div></li>')
 
 
 def pub_list(pubs):
@@ -126,7 +130,11 @@ def main():
             '        <li><a href="%s"%s>%s</a></li>'
             % ("./" if href == "index.html" else href, cur if href == page else "", label)
             for href, label in NAV)
-        scripts = '<script src="assets/pubs.js"></script>' if page == "publications.html" else ""
+        scripts = ""
+        if 'class="pub"' in body:
+            scripts += '<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>'
+        if page == "publications.html":
+            scripts += '\n<script src="assets/pubs.js"></script>'
         out = (layout.replace("{{TITLE}}", html.escape(title)).replace("{{DESCRIPTION}}", html.escape(desc))
                .replace("{{PATH}}", "" if page == "index.html" else page).replace("{{NAV}}", nav)
                .replace("{{CONTENT}}", body.strip()).replace("{{SCRIPTS}}", scripts))

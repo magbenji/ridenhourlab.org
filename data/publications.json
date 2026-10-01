@@ -6,6 +6,7 @@
 "title": "An aging risk-factor scale: Biomarkers of renal disease and anemia are primary predictors of three-year survival in common marmosets (<i>Callithrix jacchus</i>)",
 "venue": "bioRxiv",
 "details": "(preprint)",
+"doi": "10.64898/2026.08.06.743332",
 "url": "https://doi.org/10.64898/2026.08.06.743332"
 },
 {
@@ -15,6 +16,7 @@
 "title": "Using geographically weighted random forests to analyze county-level diabetes prevalence in the USA",
 "venue": "Medical Research Archives",
 "details": "14(4)",
+"doi": "10.18103/mra.v14i4.7305",
 "url": "https://doi.org/10.18103/mra.v14i4.7305"
 },
 {
@@ -24,6 +26,7 @@
 "title": "Predictive spatial modeling of sociodemographic risk for COVID-19 mortality",
 "venue": "BMC Public Health",
 "details": "",
+"doi": "10.1186/s12889-026-29313-w",
 "url": "https://doi.org/10.1186/s12889-026-29313-w"
 },
 {
@@ -33,6 +36,7 @@
 "title": "Precision of Hi-C-based metagenome-assembled genome reconstruction across binning pipelines",
 "venue": "Computational and Structural Biotechnology Reports",
 "details": "3:0003",
+"doi": "10.34133/csbr.0003",
 "url": "https://doi.org/10.34133/csbr.0003"
 },
 {
@@ -42,6 +46,7 @@
 "title": "Validation of body condition scoring as a screening test for low body condition and obesity in common marmosets (<i>Callithrix jacchus</i>)",
 "venue": "American Journal of Primatology",
 "details": "87:e70068",
+"doi": "10.1002/ajp.70068",
 "url": "https://doi.org/10.1002/ajp.70068"
 },
 {
@@ -51,6 +56,7 @@
 "title": "SARS-CoV-2 surveillance of wastewater in small rural communities identifies lack of vaccine coverage as influence of omicron outbreak",
 "venue": "Water Research",
 "details": "283:123818",
+"doi": "10.1016/j.watres.2025.123818",
 "url": "https://doi.org/10.1016/j.watres.2025.123818"
 },
 {
@@ -60,6 +66,7 @@
 "title": "Resilience of a stochastic generalized Lotka–Volterra model for microbiome studies",
 "venue": "Mathematical Biosciences and Engineering",
 "details": "22:1517–1550",
+"doi": "10.3934/mbe.2025056",
 "url": "https://doi.org/10.3934/mbe.2025056"
 },
 {
@@ -69,6 +76,7 @@
 "title": "Detection of rare plasmid hosts using a targeted Hi-C approach",
 "venue": "ISME Communications",
 "details": "5:ycae161",
+"doi": "10.1093/ismeco/ycae161",
 "url": "https://doi.org/10.1093/ismeco/ycae161"
 },
 {
@@ -78,6 +86,7 @@
 "title": "Epidemiological model can forecast COVID-19 outbreaks from wastewater-based surveillance in rural communities",
 "venue": "Water Research",
 "details": "268:122671",
+"doi": "10.1016/j.watres.2024.122671",
 "url": "https://doi.org/10.1016/j.watres.2024.122671"
 },
 {
@@ -87,6 +96,7 @@
 "title": "Plasmid-driven evolution of bacteria",
 "venue": "In <i>The Encyclopedia of Evolutionary Biology</i>, 2nd ed., vol. 2. Eds: J. B. Wolf and C. A. de M. Russo. Academic Press",
 "details": "pp. 317–324",
+"doi": "10.1016/B978-0-443-15750-9.00144-0",
 "url": "https://doi.org/10.1016/B978-0-443-15750-9.00144-0"
 },
 {
@@ -96,6 +106,7 @@
 "title": "Developing the common marmoset as a translational geroscience model to study the microbiome and healthy aging",
 "venue": "Microorganisms",
 "details": "12:852",
+"doi": "10.3390/microorganisms12050852",
 "url": "https://doi.org/10.3390/microorganisms12050852"
 },
 {
@@ -105,6 +116,7 @@
 "title": "Applications of elastic net regression for modeling COVID-19 sociodemographic risk factors",
 "venue": "PLoS One",
 "details": "19:e0297065",
+"doi": "10.1371/journal.pone.0297065",
 "url": "https://doi.org/10.1371/journal.pone.0297065"
 },
 {
@@ -114,6 +126,7 @@
 "title": "Hidden variable models reveal the effects of infection from changes in host survival",
 "venue": "PLoS Computational Biology",
 "details": "19:e1010910",
+"doi": "10.1371/journal.pcbi.1010910",
 "url": "https://doi.org/10.1371/journal.pcbi.1010910"
 },
 {
@@ -123,6 +136,7 @@
 "title": "Biofilms preserve the transmissibility of a multi-drug resistance plasmid",
 "venue": "npj Biofilms and Microbiomes",
 "details": "8:95",
+"doi": "10.1038/s41522-022-00357-1",
 "url": "https://doi.org/10.1038/s41522-022-00357-1"
 },
 {
@@ -132,6 +146,7 @@
 "title": "Effects of a farm-specific fecal microbial transplant (FMT) product on clinical outcomes and fecal microbiome composition in preweaned dairy calves",
 "venue": "PLoS One",
 "details": "17:e0276638",
+"doi": "10.1371/journal.pone.0276638",
 "url": "https://doi.org/10.1371/journal.pone.0276638"
 },
 {
@@ -141,6 +156,7 @@
 "title": "Filtering ASVs/OTUs via mutual information-based microbiome network analysis",
 "venue": "BMC Bioinformatics",
 "details": "23:380",
+"doi": "10.1186/s12859-022-04919-0",
 "url": "https://doi.org/10.1186/s12859-022-04919-0"
 },
 {
@@ -150,6 +166,7 @@
 "title": "Effects of trust, risk perception, and health behavior on COVID-19 disease burden: Evidence from a multi-state US survey",
 "venue": "PLoS One",
 "details": "17:e0268302",
+"doi": "10.1371/journal.pone.0268302",
 "url": "https://doi.org/10.1371/journal.pone.0268302"
 },
 {
@@ -159,6 +176,7 @@
 "title": "Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria",
 "venue": "Nature Microbiology",
 "details": "7:1210–1220",
+"doi": "10.1038/s41564-022-01162-4",
 "url": "https://doi.org/10.1038/s41564-022-01162-4"
 },
 {
@@ -168,6 +186,7 @@
 "title": "Fecal microbiome profiles of neonatal dairy calves with varying severities of gastrointestinal disease",
 "venue": "PLoS One",
 "details": "17:e0262317",
+"doi": "10.1371/journal.pone.0262317",
 "url": "https://doi.org/10.1371/journal.pone.0262317"
 },
 {
@@ -177,6 +196,7 @@
 "title": "Rhinovirus reduces the severity of subsequent respiratory viral infections by interferon-dependent and -independent mechanisms",
 "venue": "mSphere",
 "details": "6:e00479-21",
+"doi": "10.1128/mSphere.00479-21",
 "url": "https://doi.org/10.1128/mSphere.00479-21"
 },
 {
@@ -186,6 +206,7 @@
 "title": "Structural identifiability of the generalized Lotka–Volterra model for microbiome studies",
 "venue": "Royal Society Open Science",
 "details": "8:201378",
+"doi": "10.1098/rsos.201378",
 "url": "https://doi.org/10.1098/rsos.201378"
 },
 {
@@ -195,6 +216,7 @@
 "title": "Risk of disease and willingness to vaccinate in the United States: A population-based survey",
 "venue": "PLoS Medicine",
 "details": "17:e1003354",
+"doi": "10.1371/journal.pmed.1003354",
 "url": "https://doi.org/10.1371/journal.pmed.1003354"
 },
 {
@@ -204,6 +226,7 @@
 "title": "Microbial phenotypic heterogeneity in response to a metabolic toxin: continuous, dynamically shifting distribution of formaldehyde tolerance in <i>Methylobacterium extorquens</i> populations",
 "venue": "PLoS Genetics",
 "details": "15:e1008458",
+"doi": "10.1371/journal.pgen.1008458",
 "url": "https://doi.org/10.1371/journal.pgen.1008458"
 },
 {
@@ -213,6 +236,7 @@
 "title": "Vaginal biomarkers that predict cervical length and dominant bacteria in the vaginal microbiome of pregnant women",
 "venue": "mBio",
 "details": "10:e02242-19",
+"doi": "10.1128/mBio.02242-19",
 "url": "https://doi.org/10.1128/mBio.02242-19"
 },
 {
@@ -222,6 +246,7 @@
 "title": "Vaginal glycogen, not estradiol, is associated with vaginal bacterial community composition in black adolescent women",
 "venue": "Journal of Adolescent Health",
 "details": "65:130–138",
+"doi": "10.1016/j.jadohealth.2019.01.010",
 "url": "https://doi.org/10.1016/j.jadohealth.2019.01.010"
 },
 {
@@ -231,6 +256,7 @@
 "title": "Comparison of the vaginal microbiomes of premenopausal and postmenopausal women",
 "venue": "Frontiers in Microbiology",
 "details": "10:193",
+"doi": "10.3389/fmicb.2019.00193",
 "url": "https://doi.org/10.3389/fmicb.2019.00193"
 },
 {
@@ -249,6 +275,7 @@
 "title": "Stability of equilibria in quantitative genetic models based on modified-gradient systems",
 "venue": "Journal of Biological Dynamics",
 "details": "12:39–50",
+"doi": "10.1080/17513758.2017.1400598",
 "url": "https://doi.org/10.1080/17513758.2017.1400598"
 },
 {
@@ -258,6 +285,8 @@
 "title": "Modeling time-series data from microbial communities",
 "venue": "ISME Journal",
 "details": "11:2526–2537",
+"doi": "10.1038/ismej.2017.107",
+"preprint_doi": "10.1101/071449",
 "url": "https://doi.org/10.1038/ismej.2017.107"
 },
 {
@@ -267,6 +296,8 @@
 "title": "Lung epithelial cells have virus-specific and shared gene expression responses to infection by diverse respiratory viruses",
 "venue": "PLoS One",
 "details": "12:e0178408",
+"doi": "10.1371/journal.pone.0178408",
+"preprint_doi": "10.1101/090936",
 "url": "https://doi.org/10.1371/journal.pone.0178408"
 },
 {
@@ -276,6 +307,8 @@
 "title": "Persistence of antibiotic resistance plasmids in bacterial biofilms",
 "venue": "Evolutionary Applications",
 "details": "10:640–647",
+"doi": "10.1111/eva.12480",
+"preprint_doi": "10.1101/098368",
 "url": "https://doi.org/10.1111/eva.12480"
 },
 {
@@ -285,6 +318,7 @@
 "title": "Planning horizon affects prophylactic decision-making and epidemic dynamics",
 "venue": "PeerJ",
 "details": "4:e2678",
+"doi": "10.7717/peerj.2678",
 "url": "https://doi.org/10.7717/peerj.2678"
 },
 {
@@ -294,7 +328,8 @@
 "title": "Coevolutionary fitness landscapes",
 "venue": "In <i>The Encyclopedia of Evolutionary Biology</i>. Ed: R. M. Kliman. Academic Press",
 "details": "pp. 299–304",
-"url": "https://www.sciencedirect.com/science/article/pii/B9780128000496001955"
+"doi": "10.1016/B978-0-12-800049-6.00195-5",
+"url": "https://doi.org/10.1016/B978-0-12-800049-6.00195-5"
 },
 {
 "year": 2016,
@@ -303,7 +338,8 @@
 "title": "Plasmid driven evolution of bacteria",
 "venue": "In <i>The Encyclopedia of Evolutionary Biology</i>. Ed: R. M. Kliman. Academic Press",
 "details": "pp. 301–306",
-"url": "https://www.sciencedirect.com/science/article/pii/B9780128000496002377"
+"doi": "10.1016/B978-0-12-800049-6.00237-7",
+"url": "https://doi.org/10.1016/B978-0-12-800049-6.00237-7"
 },
 {
 "year": 2015,
@@ -312,6 +348,7 @@
 "title": "Differentiation of white-footed mice (<i>Peromyscus leucopus</i>) and deer mice (<i>Peromyscus maniculatus</i>) of the Upper Midwest using PCR melt curve analysis",
 "venue": "Conservation Genetics Resources",
 "details": "7:29–31",
+"doi": "10.1007/s12686-014-0324-3",
 "url": "https://doi.org/10.1007/s12686-014-0324-3"
 },
 {
@@ -321,7 +358,8 @@
 "title": "Whirling disease dynamics: an analysis of intervention strategies",
 "venue": "Preventive Veterinary Medicine",
 "details": "113:457–468",
-"url": "https://www.sciencedirect.com/science/article/pii/S0167587713003905"
+"doi": "10.1016/j.prevetmed.2013.12.008",
+"url": "https://doi.org/10.1016/j.prevetmed.2013.12.008"
 },
 {
 "year": 2014,
@@ -330,6 +368,7 @@
 "title": "Unraveling R<sub>0</sub>: Considerations for public health applications",
 "venue": "American Journal of Public Health",
 "details": "104:e32–e41",
+"doi": "10.2105/AJPH.2013.301704",
 "url": "https://doi.org/10.2105/AJPH.2013.301704"
 },
 {
@@ -339,6 +378,7 @@
 "title": "A quantitative genetic approach to predicting change in biological communities",
 "venue": "Theoretical Ecology",
 "details": "7:137–148",
+"doi": "10.1007/s12080-013-0206-4",
 "url": "https://doi.org/10.1007/s12080-013-0206-4"
 },
 {
@@ -348,7 +388,8 @@
 "title": "Coevolution",
 "venue": "In <i>Oxford Bibliographies in Evolutionary Biology</i>. Ed: J. Losos. Oxford University Press",
 "details": "",
-"url": "https://www.oxfordbibliographies.com/view/document/obo-9780199941728/obo-9780199941728-0023.xml"
+"doi": "10.1093/OBO/9780199941728-0023",
+"url": "https://doi.org/10.1093/OBO/9780199941728-0023"
 },
 {
 "year": 2013,
@@ -357,6 +398,7 @@
 "title": "Effectiveness of inactivated influenza vaccines in preventing influenza-associated deaths and hospitalizations among Ontario residents aged ≥65 years: Estimates with generalized linear models accounting for healthy vaccinee effects",
 "venue": "PLoS One",
 "details": "8:e76318",
+"doi": "10.1371/journal.pone.0076318",
 "url": "https://doi.org/10.1371/journal.pone.0076318"
 },
 {
@@ -375,7 +417,8 @@
 "title": "Time-series analyses of count data to estimate the burden of infectious diseases",
 "venue": "Epidemiology",
 "details": "23:839–842",
-"url": "https://journals.lww.com/epidem/Citation/2012/11000/Commentary___Time_Series_Analyses_of_Count_Data_to.12.aspx"
+"doi": "10.1097/EDE.0b013e31826cc1df",
+"url": "https://doi.org/10.1097/EDE.0b013e31826cc1df"
 },
 {
 "year": 2012,
@@ -384,6 +427,7 @@
 "title": "The contribution of a pollinating seed predator to selection on <i>Silene latifolia</i> females",
 "venue": "Journal of Evolutionary Biology",
 "details": "25:461–472",
+"doi": "10.1111/j.1420-9101.2011.02436.x",
 "url": "https://doi.org/10.1111/j.1420-9101.2011.02436.x"
 },
 {
@@ -393,6 +437,7 @@
 "title": "Controlling the spread of disease in schools",
 "venue": "PLoS One",
 "details": "6:e29640",
+"doi": "10.1371/journal.pone.0029640",
 "url": "https://doi.org/10.1371/journal.pone.0029640"
 },
 {
@@ -402,6 +447,7 @@
 "title": "When is correlation coevolution?",
 "venue": "American Naturalist",
 "details": "175:525–537",
+"doi": "10.1086/651591",
 "url": "https://doi.org/10.1086/651591"
 },
 {
@@ -411,6 +457,7 @@
 "title": "Antagonistic parent-offspring co-adaptation",
 "venue": "PLoS One",
 "details": "5:e8606",
+"doi": "10.1371/journal.pone.0008606",
 "url": "https://doi.org/10.1371/journal.pone.0008606"
 },
 {
@@ -420,6 +467,7 @@
 "title": "Can we “hedge” against the development of antiviral resistance among pandemic influenza viruses?",
 "venue": "PLoS Medicine",
 "details": "6:e1000103",
+"doi": "10.1371/journal.pmed.1000103",
 "url": "https://doi.org/10.1371/journal.pmed.1000103"
 },
 {
@@ -429,6 +477,7 @@
 "title": "Geographically variable selection in <i>Ambystoma tigrinum</i> virus (Iridoviridae) throughout the western United States",
 "venue": "Journal of Evolutionary Biology",
 "details": "21:958–965",
+"doi": "10.1111/j.1420-9101.2008.01537.x",
 "url": "https://doi.org/10.1111/j.1420-9101.2008.01537.x"
 },
 {
@@ -438,6 +487,7 @@
 "title": "The contribution of parasitism to selection on floral traits in <i>Heuchera grossulariifolia</i>",
 "venue": "Journal of Evolutionary Biology",
 "details": "21:1151–1159",
+"doi": "10.1111/j.1420-9101.2008.01551.x",
 "url": "https://doi.org/10.1111/j.1420-9101.2008.01551.x"
 },
 {
@@ -447,6 +497,7 @@
 "title": "Phylogenetic concordance analysis shows an emerging pathogen is novel and endemic",
 "venue": "Ecology Letters",
 "details": "10:1075–1083",
+"doi": "10.1111/j.1461-0248.2007.01102.x",
 "url": "https://doi.org/10.1111/j.1461-0248.2007.01102.x"
 },
 {
@@ -456,6 +507,7 @@
 "title": "Antagonistic coevolution mediated by phenotypic differences between quantitative traits",
 "venue": "Evolution",
 "details": "61:1823–1834",
+"doi": "10.1111/j.1558-5646.2007.00158.x",
 "url": "https://doi.org/10.1111/j.1558-5646.2007.00158.x"
 },
 {
@@ -465,6 +517,7 @@
 "title": "Patterns of genetic differentiation in <i>Thamnophis</i> and <i>Taricha</i> from the Pacific Northwest",
 "venue": "Journal of Biogeography",
 "details": "34:724–735",
+"doi": "10.1111/j.1365-2699.2006.01642.x",
 "url": "https://doi.org/10.1111/j.1365-2699.2006.01642.x"
 },
 {
@@ -474,7 +527,8 @@
 "title": "Dos and don'ts of testing the geographic mosaic theory of coevolution",
 "venue": "Heredity",
 "details": "98:249–258",
-"url": "https://www.nature.com/hdy/journal/v98/n5/full/6800949a.html"
+"doi": "10.1038/sj.hdy.6800949",
+"url": "https://doi.org/10.1038/sj.hdy.6800949"
 },
 {
 "year": 2007,
@@ -483,6 +537,7 @@
 "title": "Tests of the influences of altitude and topography on genetic structure in the long-toed salamander (<i>Ambystoma macrodactylum</i>)",
 "venue": "Molecular Ecology",
 "details": "16:1625–1637",
+"doi": "10.1111/j.1365-294X.2006.03223.x",
 "url": "https://doi.org/10.1111/j.1365-294X.2006.03223.x"
 },
 {
@@ -501,6 +556,7 @@
 "title": "Identification of selective sources: partitioning selection based on interactions",
 "venue": "American Naturalist",
 "details": "166:12–25",
+"doi": "10.1086/430524",
 "url": "https://doi.org/10.1086/430524"
 },
 {
@@ -510,7 +566,8 @@
 "title": "Nesting fidelity and molecular evidence for natal homing in the freshwater turtle, <i>Graptemys kohnii</i>",
 "venue": "Proceedings of the Royal Society B",
 "details": "272:1345–1350",
-"url": "https://rspb.royalsocietypublishing.org/content/272/1570/1345"
+"doi": "10.1098/rspb.2005.3080",
+"url": "https://doi.org/10.1098/rspb.2005.3080"
 },
 {
 "year": 2004,
@@ -519,6 +576,7 @@
 "title": "Resistance of neonates and field-collected garter snakes (<i>Thamnophis</i> spp.) to tetrodotoxin",
 "venue": "Journal of Chemical Ecology",
 "details": "30:143–154",
+"doi": "10.1023/B:JOEC.0000013187.79068.d2",
 "url": "https://doi.org/10.1023/B:JOEC.0000013187.79068.d2"
 },
 {
@@ -528,7 +586,8 @@
 "title": "Reciprocal selection at the phenotypic interface of coevolution",
 "venue": "Integrative and Comparative Biology",
 "details": "43:408–419",
-"url": "https://icb.oxfordjournals.org/content/43/3/408"
+"doi": "10.1093/icb/43.3.408",
+"url": "https://doi.org/10.1093/icb/43.3.408"
 },
 {
 "year": 2002,
@@ -537,7 +596,8 @@
 "title": "The evolutionary response of predators to dangerous prey: Hotspots and coldspots in the geographic mosaic of coevolution between garter snakes and newts",
 "venue": "Evolution",
 "details": "56:2067–2082",
-"url": "https://www.bioone.org/doi/abs/10.1554/0014-3820%282002%29056%5B2067%3ATEROPT%5D2.0.CO%3B2"
+"doi": "10.1554/0014-3820(2002)056[2067:TEROPT]2.0.CO;2",
+"url": "https://doi.org/10.1554/0014-3820(2002)056[2067:TEROPT]2.0.CO;2"
 },
 {
 "year": 1999,
@@ -546,6 +606,7 @@
 "title": "Repeated injections of TTX do not affect TTX resistance or growth in the garter snake <i>Thamnophis sirtalis</i>",
 "venue": "Copeia",
 "details": "1999:531–535",
-"url": "https://www.jstor.org/stable/1447507"
+"doi": "10.2307/1447507",
+"url": "https://doi.org/10.2307/1447507"
 }
 ]

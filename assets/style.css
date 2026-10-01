@@ -116,3 +116,8 @@ ul.plain li{margin:.25em 0}
   nav ul{gap:2px}
 }
 @media print{nav,.toolbar,.site-footer{display:none}a{color:inherit}}
+
+/* Altmetric badges */
+.pub .altmetric-embed{display:inline-block;vertical-align:middle;margin-left:6px;line-height:0}
+.pub .altmetric-embed:empty{display:none}
+.pub .altmetric-embed img{vertical-align:middle}
