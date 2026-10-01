@@ -1,0 +1,551 @@
+[
+{
+"year": 2026,
+"type": "preprint",
+"authors": "Arroyo, J. P., A. C. Mustoe, K. R. Reveles, K. M. Brasky, D. Perry, L. Cervantes, A. Alvarez, C. Hinojosa, J. Greig, A. J. Hickmott, B. J. Ridenhour, K. R. Amato, M. L. Power, and C. N. Ross",
+"title": "An aging risk-factor scale: Biomarkers of renal disease and anemia are primary predictors of three-year survival in common marmosets (<i>Callithrix jacchus</i>)",
+"venue": "bioRxiv",
+"details": "(preprint)",
+"url": "https://doi.org/10.64898/2026.08.06.743332"
+},
+{
+"year": 2026,
+"type": "article",
+"authors": "Ampofo, E. T., E. Seamon, and B. J. Ridenhour",
+"title": "Using geographically weighted random forests to analyze county-level diabetes prevalence in the USA",
+"venue": "Medical Research Archives",
+"details": "14(4)",
+"url": "https://doi.org/10.18103/mra.v14i4.7305"
+},
+{
+"year": 2026,
+"type": "article",
+"authors": "Seamon, E., B. J. Ridenhour, C. R. Miller, and J. Johnson-Leung",
+"title": "Predictive spatial modeling of sociodemographic risk for COVID-19 mortality",
+"venue": "BMC Public Health",
+"details": "",
+"url": "https://doi.org/10.1186/s12889-026-29313-w"
+},
+{
+"year": 2026,
+"type": "article",
+"authors": "Lukaszewicz, M., B. J. Ridenhour, E. M. Top, and T. Stalder",
+"title": "Precision of Hi-C-based metagenome-assembled genome reconstruction across binning pipelines",
+"venue": "Computational and Structural Biotechnology Reports",
+"details": "3:0003",
+"url": "https://doi.org/10.34133/csbr.0003"
+},
+{
+"year": 2025,
+"type": "article",
+"authors": "Arroyo, J. P., A. Alvarez, L. Alvarez, A. J. Hickmott, A. C. Mustoe, K. Brasky, K. R. Reveles, B. J. Ridenhour, K. R. Amato, M. L. Power, and C. N. Ross",
+"title": "Validation of body condition scoring as a screening test for low body condition and obesity in common marmosets (<i>Callithrix jacchus</i>)",
+"venue": "American Journal of Primatology",
+"details": "87:e70068",
+"url": "https://doi.org/10.1002/ajp.70068"
+},
+{
+"year": 2025,
+"type": "article",
+"authors": "Narum, S., T. Stalder, B. J. Ridenhour, and E. R. Coats",
+"title": "SARS-CoV-2 surveillance of wastewater in small rural communities identifies lack of vaccine coverage as influence of omicron outbreak",
+"venue": "Water Research",
+"details": "283:123818",
+"url": "https://doi.org/10.1016/j.watres.2025.123818"
+},
+{
+"year": 2025,
+"type": "article",
+"authors": "Phan, T., B. J. Ridenhour, and C. Remien",
+"title": "Resilience of a stochastic generalized Lotka–Volterra model for microbiome studies",
+"venue": "Mathematical Biosciences and Engineering",
+"details": "22:1517–1550",
+"url": "https://doi.org/10.3934/mbe.2025056"
+},
+{
+"year": 2025,
+"type": "article",
+"authors": "Castañeda-Barba, S., B. J. Ridenhour, E. M. Top, and T. Stalder",
+"title": "Detection of rare plasmid hosts using a targeted Hi-C approach",
+"venue": "ISME Communications",
+"details": "5:ycae161",
+"url": "https://doi.org/10.1093/ismeco/ycae161"
+},
+{
+"year": 2025,
+"type": "article",
+"authors": "Meadows, T., E. R. Coats, S. Narum, E. M. Top, B. J. Ridenhour, and T. Stalder",
+"title": "Epidemiological model can forecast COVID-19 outbreaks from wastewater-based surveillance in rural communities",
+"venue": "Water Research",
+"details": "268:122671",
+"url": "https://doi.org/10.1016/j.watres.2024.122671"
+},
+{
+"year": 2025,
+"type": "chapter",
+"authors": "Ridenhour, B. J., O. Kosterlitz, and E. M. Top",
+"title": "Plasmid-driven evolution of bacteria",
+"venue": "In <i>The Encyclopedia of Evolutionary Biology</i>, 2nd ed., vol. 2. Eds: J. B. Wolf and C. A. de M. Russo. Academic Press",
+"details": "pp. 317–324",
+"url": "https://doi.org/10.1016/B978-0-443-15750-9.00144-0"
+},
+{
+"year": 2024,
+"type": "article",
+"authors": "Reveles, K. R., A. J. Hickmott, K. A. Strey, A. C. Mustoe, J. P. Arroyo, M. L. Power, B. J. Ridenhour, K. R. Amato, and C. N. Ross",
+"title": "Developing the common marmoset as a translational geroscience model to study the microbiome and healthy aging",
+"venue": "Microorganisms",
+"details": "12:852",
+"url": "https://doi.org/10.3390/microorganisms12050852"
+},
+{
+"year": 2024,
+"type": "article",
+"authors": "Moxley, T. A., J. Johnson-Leung, E. Seamon, C. Williams, and B. J. Ridenhour",
+"title": "Applications of elastic net regression for modeling COVID-19 sociodemographic risk factors",
+"venue": "PLoS One",
+"details": "19:e0297065",
+"url": "https://doi.org/10.1371/journal.pone.0297065"
+},
+{
+"year": 2023,
+"type": "article",
+"authors": "Ferguson, J. M., A. González-González, J. A. Kaiser, S. M. Winzer, J. M. Anast, B. J. Ridenhour, T. A. Miura, and C. E. Parent",
+"title": "Hidden variable models reveal the effects of infection from changes in host survival",
+"venue": "PLoS Computational Biology",
+"details": "19:e1010910",
+"url": "https://doi.org/10.1371/journal.pcbi.1010910"
+},
+{
+"year": 2022,
+"type": "article",
+"authors": "Metzger, G., B. J. Ridenhour, M. France, K. Gliniewicz, J. Millstein, M. L. Settles, L. Forney, T. Stalder, and E. Top",
+"title": "Biofilms preserve the transmissibility of a multi-drug resistance plasmid",
+"venue": "npj Biofilms and Microbiomes",
+"details": "8:95",
+"url": "https://doi.org/10.1038/s41522-022-00357-1"
+},
+{
+"year": 2022,
+"type": "article",
+"authors": "Slanzon, G. S., B. J. Ridenhour, L. M. Parrish, S. C. Trombetta, D. A. Moore, W. M. Sischo, and C. S. McConnel",
+"title": "Effects of a farm-specific fecal microbial transplant (FMT) product on clinical outcomes and fecal microbiome composition in preweaned dairy calves",
+"venue": "PLoS One",
+"details": "17:e0276638",
+"url": "https://doi.org/10.1371/journal.pone.0276638"
+},
+{
+"year": 2022,
+"type": "article",
+"authors": "Bayat-Mokhtari, E. and B. J. Ridenhour",
+"title": "Filtering ASVs/OTUs via mutual information-based microbiome network analysis",
+"venue": "BMC Bioinformatics",
+"details": "23:380",
+"url": "https://doi.org/10.1186/s12859-022-04919-0"
+},
+{
+"year": 2022,
+"type": "article",
+"authors": "Ridenhour, B. J., D. Sarathchandra, E. Seamon, H. Brown, F.-Y. Leung, M. Johnson-Leon, M. Megheib, C. R. Miller, and J. Johnson-Leung",
+"title": "Effects of trust, risk perception, and health behavior on COVID-19 disease burden: Evidence from a multi-state US survey",
+"venue": "PLoS One",
+"details": "17:e0268302",
+"url": "https://doi.org/10.1371/journal.pone.0268302"
+},
+{
+"year": 2022,
+"type": "article",
+"authors": "Hsueh, B. Y., G. B. Severin, C. A. Elg, E. J. Waldron, A. Kant, A. J. Wessel, J. A. Dover, C. R. Rhoades, B. J. Ridenhour, K. N. Parent, M. B. Neiditch, J. Ravi, E. M. Top, and C. M. Waters",
+"title": "Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria",
+"venue": "Nature Microbiology",
+"details": "7:1210–1220",
+"url": "https://doi.org/10.1038/s41564-022-01162-4"
+},
+{
+"year": 2022,
+"type": "article",
+"authors": "Slanzon, G. S., B. J. Ridenhour, D. A. Moore, W. M. Sischo, L. M. Parrish, S. C. Trombetta, and C. S. McConnel",
+"title": "Fecal microbiome profiles of neonatal dairy calves with varying severities of gastrointestinal disease",
+"venue": "PLoS One",
+"details": "17:e0262317",
+"url": "https://doi.org/10.1371/journal.pone.0262317"
+},
+{
+"year": 2021,
+"type": "article",
+"authors": "Van Leuven, J. T., A. J. Gonzalez, E. C. Ijezie, A. Q. Wixom, J. L. Clary, M. N. Naranjo, B. J. Ridenhour, C. R. Miller, and T. A. Miura",
+"title": "Rhinovirus reduces the severity of subsequent respiratory viral infections by interferon-dependent and -independent mechanisms",
+"venue": "mSphere",
+"details": "6:e00479-21",
+"url": "https://doi.org/10.1128/mSphere.00479-21"
+},
+{
+"year": 2021,
+"type": "article",
+"authors": "Remien, C. H., M. J. Eckwright, and B. J. Ridenhour",
+"title": "Structural identifiability of the generalized Lotka–Volterra model for microbiome studies",
+"venue": "Royal Society Open Science",
+"details": "8:201378",
+"url": "https://doi.org/10.1098/rsos.201378"
+},
+{
+"year": 2020,
+"type": "article",
+"authors": "Baumgaertner, B., B. J. Ridenhour, F. Justwan, J. E. Carlisle, and C. R. Miller",
+"title": "Risk of disease and willingness to vaccinate in the United States: A population-based survey",
+"venue": "PLoS Medicine",
+"details": "17:e1003354",
+"url": "https://doi.org/10.1371/journal.pmed.1003354"
+},
+{
+"year": 2019,
+"type": "article",
+"authors": "Lee, J. A., S. Riazi, S. H. Nemati, J. V. Bazurto, A. E. Vasdekis, B. J. Ridenhour, C. H. Remien, and C. J. Marx",
+"title": "Microbial phenotypic heterogeneity in response to a metabolic toxin: continuous, dynamically shifting distribution of formaldehyde tolerance in <i>Methylobacterium extorquens</i> populations",
+"venue": "PLoS Genetics",
+"details": "15:e1008458",
+"url": "https://doi.org/10.1371/journal.pgen.1008458"
+},
+{
+"year": 2019,
+"type": "article",
+"authors": "Witkin, S., A. Moron, B. J. Ridenhour, E. Minis, A. Hatanaka, S. Sarmento, M. Franca, F. Carvalho, T. Hamamoto, R. Mattar, E. Sabino, I. Linhares, M. Rudge, and L. J. Forney",
+"title": "Vaginal biomarkers that predict cervical length and dominant bacteria in the vaginal microbiome of pregnant women",
+"venue": "mBio",
+"details": "10:e02242-19",
+"url": "https://doi.org/10.1128/mBio.02242-19"
+},
+{
+"year": 2019,
+"type": "article",
+"authors": "Nunn, K. L., B. J. Ridenhour, E. M. Chester, V. J. Vitzthum, J. D. Fortenberry, and L. J. Forney",
+"title": "Vaginal glycogen, not estradiol, is associated with vaginal bacterial community composition in black adolescent women",
+"venue": "Journal of Adolescent Health",
+"details": "65:130–138",
+"url": "https://doi.org/10.1016/j.jadohealth.2019.01.010"
+},
+{
+"year": 2019,
+"type": "article",
+"authors": "Gliniewicz, K., G. M. Schneider, B. J. Ridenhour, C. J. Williams, Y. Song, M. A. Farage, K. Miller, and L. J. Forney",
+"title": "Comparison of the vaginal microbiomes of premenopausal and postmenopausal women",
+"venue": "Frontiers in Microbiology",
+"details": "10:193",
+"url": "https://doi.org/10.3389/fmicb.2019.00193"
+},
+{
+"year": 2018,
+"type": "chapter",
+"authors": "France, M. T., B. J. Ridenhour, and L. J. Forney",
+"title": "Effects of spatial structure and reduced growth rates on evolution in bacterial populations",
+"venue": "In <i>Grand Challenges in Biology and Biotechnology: Molecular Mechanisms of Microbial Evolution</i>. Ed: P. H. Rampelotto. Springer",
+"details": "pp. 175–197",
+"url": "https://www.springer.com/us/book/9783319690773"
+},
+{
+"year": 2018,
+"type": "article",
+"authors": "Ridenhour, B. J. and J. R. Ridenhour",
+"title": "Stability of equilibria in quantitative genetic models based on modified-gradient systems",
+"venue": "Journal of Biological Dynamics",
+"details": "12:39–50",
+"url": "https://doi.org/10.1080/17513758.2017.1400598"
+},
+{
+"year": 2017,
+"type": "article",
+"authors": "Ridenhour, B. J., S. L. Brooker, J. E. Williams, J. T. Van Leuven, A. W. Miller, M. D. Dearing, and C. H. Remien",
+"title": "Modeling time-series data from microbial communities",
+"venue": "ISME Journal",
+"details": "11:2526–2537",
+"url": "https://doi.org/10.1038/ismej.2017.107"
+},
+{
+"year": 2017,
+"type": "article",
+"authors": "Van Leuven, J. T., B. J. Ridenhour, A. J. Gonzalez, C. R. Miller, and T. A. Miura",
+"title": "Lung epithelial cells have virus-specific and shared gene expression responses to infection by diverse respiratory viruses",
+"venue": "PLoS One",
+"details": "12:e0178408",
+"url": "https://doi.org/10.1371/journal.pone.0178408"
+},
+{
+"year": 2017,
+"type": "article",
+"authors": "Ridenhour, B. J., G. A. Metzger, M. France, K. Gliniewicz, J. Millstein, L. J. Forney, and E. M. Top",
+"title": "Persistence of antibiotic resistance plasmids in bacterial biofilms",
+"venue": "Evolutionary Applications",
+"details": "10:640–647",
+"url": "https://doi.org/10.1111/eva.12480"
+},
+{
+"year": 2016,
+"type": "article",
+"authors": "Nardin, L. G., C. R. Miller, B. J. Ridenhour, S. M. Krone, P. Joyce, and B. O. Baumgaertner",
+"title": "Planning horizon affects prophylactic decision-making and epidemic dynamics",
+"venue": "PeerJ",
+"details": "4:e2678",
+"url": "https://doi.org/10.7717/peerj.2678"
+},
+{
+"year": 2016,
+"type": "chapter",
+"authors": "Ridenhour, B. J.",
+"title": "Coevolutionary fitness landscapes",
+"venue": "In <i>The Encyclopedia of Evolutionary Biology</i>. Ed: R. M. Kliman. Academic Press",
+"details": "pp. 299–304",
+"url": "https://www.sciencedirect.com/science/article/pii/B9780128000496001955"
+},
+{
+"year": 2016,
+"type": "chapter",
+"authors": "Ridenhour, B. J. and E. M. Top",
+"title": "Plasmid driven evolution of bacteria",
+"venue": "In <i>The Encyclopedia of Evolutionary Biology</i>. Ed: R. M. Kliman. Academic Press",
+"details": "pp. 301–306",
+"url": "https://www.sciencedirect.com/science/article/pii/B9780128000496002377"
+},
+{
+"year": 2015,
+"type": "article",
+"authors": "Ridenhour, B. J. and M. J. Cramer",
+"title": "Differentiation of white-footed mice (<i>Peromyscus leucopus</i>) and deer mice (<i>Peromyscus maniculatus</i>) of the Upper Midwest using PCR melt curve analysis",
+"venue": "Conservation Genetics Resources",
+"details": "7:29–31",
+"url": "https://doi.org/10.1007/s12686-014-0324-3"
+},
+{
+"year": 2014,
+"type": "article",
+"authors": "Turner, K. G., M. J. Smith, and B. J. Ridenhour",
+"title": "Whirling disease dynamics: an analysis of intervention strategies",
+"venue": "Preventive Veterinary Medicine",
+"details": "113:457–468",
+"url": "https://www.sciencedirect.com/science/article/pii/S0167587713003905"
+},
+{
+"year": 2014,
+"type": "article",
+"authors": "Ridenhour, B. J., J. M. Kowalik, and D. K. Shay",
+"title": "Unraveling R<sub>0</sub>: Considerations for public health applications",
+"venue": "American Journal of Public Health",
+"details": "104:e32–e41",
+"url": "https://doi.org/10.2105/AJPH.2013.301704"
+},
+{
+"year": 2014,
+"type": "article",
+"authors": "Ridenhour, B. J. and S. L. Nuismer",
+"title": "A quantitative genetic approach to predicting change in biological communities",
+"venue": "Theoretical Ecology",
+"details": "7:137–148",
+"url": "https://doi.org/10.1007/s12080-013-0206-4"
+},
+{
+"year": 2014,
+"type": "chapter",
+"authors": "Ridenhour, B. J.",
+"title": "Coevolution",
+"venue": "In <i>Oxford Bibliographies in Evolutionary Biology</i>. Ed: J. Losos. Oxford University Press",
+"details": "",
+"url": "https://www.oxfordbibliographies.com/view/document/obo-9780199941728/obo-9780199941728-0023.xml"
+},
+{
+"year": 2013,
+"type": "article",
+"authors": "Ridenhour, B. J., M. A. Campitelli, J. C. Kwong, L. C. Rosella, B. G. Armstrong, P. Mangtani, A. J. Calzavara, and D. K. Shay",
+"title": "Effectiveness of inactivated influenza vaccines in preventing influenza-associated deaths and hospitalizations among Ontario residents aged ≥65 years: Estimates with generalized linear models accounting for healthy vaccinee effects",
+"venue": "PLoS One",
+"details": "8:e76318",
+"url": "https://doi.org/10.1371/journal.pone.0076318"
+},
+{
+"year": 2012,
+"type": "chapter",
+"authors": "Ridenhour, B. J. and S. L. Nuismer",
+"title": "Trait-mediated indirect interactions and the coevolutionary process",
+"venue": "In <i>Ecology and Evolution of Trait-mediated Indirect Interactions</i>. Eds: T. Ohgushi, O. Schmitz, and R. Holt. Cambridge University Press",
+"details": "pp. 207–220",
+"url": ""
+},
+{
+"year": 2012,
+"type": "article",
+"authors": "Thompson, W. W., B. J. Ridenhour, J. P. Barile, and D. K. Shay",
+"title": "Time-series analyses of count data to estimate the burden of infectious diseases",
+"venue": "Epidemiology",
+"details": "23:839–842",
+"url": "https://journals.lww.com/epidem/Citation/2012/11000/Commentary___Time_Series_Analyses_of_Count_Data_to.12.aspx"
+},
+{
+"year": 2012,
+"type": "article",
+"authors": "Burkhardt, A., B. J. Ridenhour, L. F. Delph, and G. Bernasconi",
+"title": "The contribution of a pollinating seed predator to selection on <i>Silene latifolia</i> females",
+"venue": "Journal of Evolutionary Biology",
+"details": "25:461–472",
+"url": "https://doi.org/10.1111/j.1420-9101.2011.02436.x"
+},
+{
+"year": 2011,
+"type": "article",
+"authors": "Ridenhour, B. J., A. Braun, T. Teyrasse, and D. Goldsman",
+"title": "Controlling the spread of disease in schools",
+"venue": "PLoS One",
+"details": "6:e29640",
+"url": "https://doi.org/10.1371/journal.pone.0029640"
+},
+{
+"year": 2010,
+"type": "article",
+"authors": "Nuismer, S. L., R. Gomulkiewicz, and B. J. Ridenhour",
+"title": "When is correlation coevolution?",
+"venue": "American Naturalist",
+"details": "175:525–537",
+"url": "https://doi.org/10.1086/651591"
+},
+{
+"year": 2010,
+"type": "article",
+"authors": "Kölliker, M., B. J. Ridenhour, and S. Gaba",
+"title": "Antagonistic parent-offspring co-adaptation",
+"venue": "PLoS One",
+"details": "5:e8606",
+"url": "https://doi.org/10.1371/journal.pone.0008606"
+},
+{
+"year": 2009,
+"type": "article",
+"authors": "Shay, D. K. and B. J. Ridenhour",
+"title": "Can we “hedge” against the development of antiviral resistance among pandemic influenza viruses?",
+"venue": "PLoS Medicine",
+"details": "6:e1000103",
+"url": "https://doi.org/10.1371/journal.pmed.1000103"
+},
+{
+"year": 2008,
+"type": "article",
+"authors": "Ridenhour, B. J. and A. T. Storfer",
+"title": "Geographically variable selection in <i>Ambystoma tigrinum</i> virus (Iridoviridae) throughout the western United States",
+"venue": "Journal of Evolutionary Biology",
+"details": "21:958–965",
+"url": "https://doi.org/10.1111/j.1420-9101.2008.01537.x"
+},
+{
+"year": 2008,
+"type": "article",
+"authors": "Nuismer, S. L. and B. J. Ridenhour",
+"title": "The contribution of parasitism to selection on floral traits in <i>Heuchera grossulariifolia</i>",
+"venue": "Journal of Evolutionary Biology",
+"details": "21:1151–1159",
+"url": "https://doi.org/10.1111/j.1420-9101.2008.01551.x"
+},
+{
+"year": 2007,
+"type": "article",
+"authors": "Storfer, A., M. E. Alfaro, B. J. Ridenhour, J. K. Jancovich, S. G. Mech, M. J. Parris, and J. P. Collins",
+"title": "Phylogenetic concordance analysis shows an emerging pathogen is novel and endemic",
+"venue": "Ecology Letters",
+"details": "10:1075–1083",
+"url": "https://doi.org/10.1111/j.1461-0248.2007.01102.x"
+},
+{
+"year": 2007,
+"type": "article",
+"authors": "Nuismer, S. L., B. J. Ridenhour, and B. Oswald",
+"title": "Antagonistic coevolution mediated by phenotypic differences between quantitative traits",
+"venue": "Evolution",
+"details": "61:1823–1834",
+"url": "https://doi.org/10.1111/j.1558-5646.2007.00158.x"
+},
+{
+"year": 2007,
+"type": "article",
+"authors": "Ridenhour, B. J., E. D. Brodie, Jr., and E. D. Brodie III",
+"title": "Patterns of genetic differentiation in <i>Thamnophis</i> and <i>Taricha</i> from the Pacific Northwest",
+"venue": "Journal of Biogeography",
+"details": "34:724–735",
+"url": "https://doi.org/10.1111/j.1365-2699.2006.01642.x"
+},
+{
+"year": 2007,
+"type": "article",
+"authors": "Gomulkiewicz, R., D. M. Drown, M. F. Dybdahl, W. Godsoe, S. L. Nuismer, K. M. Pepin, B. J. Ridenhour, C. I. Smith, and J. B. Yoder",
+"title": "Dos and don'ts of testing the geographic mosaic theory of coevolution",
+"venue": "Heredity",
+"details": "98:249–258",
+"url": "https://www.nature.com/hdy/journal/v98/n5/full/6800949a.html"
+},
+{
+"year": 2007,
+"type": "article",
+"authors": "Giordano, A. R., B. J. Ridenhour, and A. Storfer",
+"title": "Tests of the influences of altitude and topography on genetic structure in the long-toed salamander (<i>Ambystoma macrodactylum</i>)",
+"venue": "Molecular Ecology",
+"details": "16:1625–1637",
+"url": "https://doi.org/10.1111/j.1365-294X.2006.03223.x"
+},
+{
+"year": 2007,
+"type": "article",
+"authors": "Ridenhour, B. J. and S. L. Nuismer",
+"title": "Polygenic traits and parasite local adaptation",
+"venue": "Evolution",
+"details": "61:368–376",
+"url": ""
+},
+{
+"year": 2005,
+"type": "article",
+"authors": "Ridenhour, B. J.",
+"title": "Identification of selective sources: partitioning selection based on interactions",
+"venue": "American Naturalist",
+"details": "166:12–25",
+"url": "https://doi.org/10.1086/430524"
+},
+{
+"year": 2005,
+"type": "article",
+"authors": "Freedberg, S., M. A. Ewert, M. Neiman, B. J. Ridenhour, and C. E. Nelson",
+"title": "Nesting fidelity and molecular evidence for natal homing in the freshwater turtle, <i>Graptemys kohnii</i>",
+"venue": "Proceedings of the Royal Society B",
+"details": "272:1345–1350",
+"url": "https://rspb.royalsocietypublishing.org/content/272/1570/1345"
+},
+{
+"year": 2004,
+"type": "article",
+"authors": "Ridenhour, B. J., E. D. Brodie, Jr., and E. D. Brodie III",
+"title": "Resistance of neonates and field-collected garter snakes (<i>Thamnophis</i> spp.) to tetrodotoxin",
+"venue": "Journal of Chemical Ecology",
+"details": "30:143–154",
+"url": "https://doi.org/10.1023/B:JOEC.0000013187.79068.d2"
+},
+{
+"year": 2003,
+"type": "article",
+"authors": "Brodie, E. D. III and B. J. Ridenhour",
+"title": "Reciprocal selection at the phenotypic interface of coevolution",
+"venue": "Integrative and Comparative Biology",
+"details": "43:408–419",
+"url": "https://icb.oxfordjournals.org/content/43/3/408"
+},
+{
+"year": 2002,
+"type": "article",
+"authors": "Brodie, E. D., Jr., B. J. Ridenhour, and E. D. Brodie III",
+"title": "The evolutionary response of predators to dangerous prey: Hotspots and coldspots in the geographic mosaic of coevolution between garter snakes and newts",
+"venue": "Evolution",
+"details": "56:2067–2082",
+"url": "https://www.bioone.org/doi/abs/10.1554/0014-3820%282002%29056%5B2067%3ATEROPT%5D2.0.CO%3B2"
+},
+{
+"year": 1999,
+"type": "article",
+"authors": "Ridenhour, B. J., E. D. Brodie, Jr., and E. D. Brodie III",
+"title": "Repeated injections of TTX do not affect TTX resistance or growth in the garter snake <i>Thamnophis sirtalis</i>",
+"venue": "Copeia",
+"details": "1999:531–535",
+"url": "https://www.jstor.org/stable/1447507"
+}
+]
