@@ -2,6 +2,16 @@
 {
 "year": 2026,
 "type": "preprint",
+"authors": "Moxley, T. A. and B. J. Ridenhour",
+"title": "IQC: A novel criterion for assessing feature selection stability in high-dimensional analyses",
+"venue": "bioRxiv",
+"details": "",
+"doi": "10.64898/2026.09.26.754480",
+"url": "https://doi.org/10.64898/2026.09.26.754480"
+},
+{
+"year": 2026,
+"type": "preprint",
 "authors": "Arroyo, J. P., A. C. Mustoe, K. R. Reveles, K. M. Brasky, D. Perry, L. Cervantes, A. Alvarez, C. Hinojosa, J. Greig, A. J. Hickmott, B. J. Ridenhour, K. R. Amato, M. L. Power, and C. N. Ross",
 "title": "An aging risk-factor scale: Biomarkers of renal disease and anemia are primary predictors of three-year survival in common marmosets (<i>Callithrix jacchus</i>)",
 "venue": "bioRxiv",
